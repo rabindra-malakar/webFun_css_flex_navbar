@@ -11,6 +11,9 @@
     background-color: burlywood;
 }
 /* coding dojo navbar */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 .header {
     height: 100px;
     background-color: cornflowerblue;
@@ -19,9 +22,9 @@
 }
 h1 {
     color: white;
-    font-weight: 100;
-    font-size: 25px;
-    margin-left: 30px;
+    font-weight: 300;
+    font-size: 20px;
+    margin-left: 25px;
     }
 
 img {
@@ -35,6 +38,7 @@ img {
 li a {
     text-decoration: none;
     color: white;
-    margin: 35px;
-    
+    margin: 30px;
+    font-weight: 200;
+    font-size: 15px;
 }
