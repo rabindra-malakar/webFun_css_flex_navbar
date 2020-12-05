@@ -1,0 +1,40 @@
+.center-box {
+    height: 300px;
+    display: flex;
+    background-color: blue;
+    align-items: center;
+    padding-left: 500px;
+}
+.center-item {
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+}
+/* coding dojo navbar */
+.header {
+    height: 100px;
+    background-color: cornflowerblue;
+    display: flex;
+    align-items: center;
+}
+h1 {
+    color: white;
+    font-weight: 100;
+    font-size: 25px;
+    margin-left: 30px;
+    }
+
+img {
+    height: 70px;
+    width: 70px
+}
+#nav-heading {
+    display: flex;
+    list-style: none;   
+}
+li a {
+    text-decoration: none;
+    color: white;
+    margin: 35px;
+    
+}
